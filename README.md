@@ -2,7 +2,7 @@
 
 # 🎸 GuitarVerse Pro
 ### *Studio Edition — v3.0*
-
+live at -  https://tanish-sareen.github.io/Guitar-verse/
 **A fully interactive, browser-based guitar simulator with real audio synthesis, chord library, chromatic tuner, and metronome. No downloads. No plugins. Just open and play.**
 
 [![Made with HTML](https://img.shields.io/badge/Made%20with-HTML%2FJS-f0c040?style=for-the-badge&logo=html5&logoColor=black)](https://github.com/tanishsareen/guitarverse-pro)
